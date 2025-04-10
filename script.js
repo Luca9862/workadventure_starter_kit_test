@@ -1,3 +1,3 @@
 console.log("hello");
 
-WA.chat.sendChatMessage('Hello world', 'Mr Robot');
+WA.chat.sendChatMessage('Benvenuto su WorkAdventure!', 'Mr Robot');
